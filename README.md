@@ -1,10 +1,10 @@
-# Kafka Java Example (Using Gradle)
+# Java Kafka Example (Using Gradle)
 
 # 1. Licence
 https://raw.githubusercontent.com/ditlef9/JavaKafkaExample/master/LICENSE
 
 # 2. About
--
+This program uses Kafka to produce events and consume them. 
 
 # 3. How to Install on local machine
 a. Install Git from https://git-scm.com/download/<br />
